@@ -1,9 +1,12 @@
-# Medieval Factions
+# GEOLEGACY.XYZ Factions
 
 ## Description 
-Medieval Factions is a system of mechanics that allows for the simulation of sovereign nations in Minecraft. Players can create nations, claim territory, engage in warfare or politics, write laws or hold dueling tournaments, and generally are able to attempt to recreate society somewhat.
+GEOLEGACY.XYZ Factions is based off of Medieval Factions, a system of mechanics that allows for the simulation of sovereign nations in Minecraft. Players can create nations, claim territory, engage in warfare or politics, write laws or hold dueling tournaments, and generally are able to attempt to recreate society somewhat.
 
 A list of features can be found [here](https://github.com/dmccoystephenson/Medieval-Factions/wiki/Features).
+
+## Fork-specific modifcations include:
++ Added more in-depth chunk notifcations and parameters for fade and length durations.
 
 ### Fifth Major Version - MF 5
 Medieval Factions 5 reimagines and reworks everything about the plugin. The development of the fifth major version of MF was led by [alyphen](https://github.com/alyphen) (creator of [RPKit](https://github.com/RP-Kit/RPKit/wiki)). Huge thanks to her!
